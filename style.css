@@ -1,0 +1,29 @@
+#main {
+  color:#221811;
+  background-color: #fcebb6;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+  .big {
+     color:#221811;
+     background-color:#d2b48c;
+     text-align: center;    
+   }
+    .u1 {
+      color: #221811;
+    }
+  div .underline {
+    text-decoration: line-through;
+    color: crimson;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  div {
+    background-color: #d2b48c;
+    margin-top: 0px;
+    text-align: center;
+  }
+  .menu {
+    text-align: center
+  }
